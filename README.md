@@ -5,4 +5,4 @@ What I learned from this project:
 
 - How to properly code a multipurpose program
 - Continue to execute OOP principles
-- Integrate multiple languages in one project
+- Integrate multiple languages in one program
