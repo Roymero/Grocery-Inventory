@@ -3,6 +3,6 @@ This program takes a text file which has a list of items that were purchased tha
 
 What I learned from this project: 
 
-How to properly code a multi purpose program
-
-Integrate multiple languages in one project
+- How to properly code a multipurpose program
+- Continue to execute OOP principles
+- Integrate multiple languages in one project
