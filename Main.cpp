@@ -8,8 +8,7 @@
 #include "GrocerySystem.h"
 
 // Roy Romero
-//CS-210
-//Project 3 
+// Grocery Inventory and History System
 // Lets get it
 
 using namespace std;
